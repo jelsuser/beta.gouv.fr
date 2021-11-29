@@ -4,7 +4,7 @@ domaine: Déploiement
 role: Responsable Communication
 missions:
   - start: 2020-03-23
-    end: 2021-11-30
+    end: 2021-12-31
     status: independent
 startups:
   - itou
